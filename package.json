@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "git-filter-repo": "^0.0.30",
+    "git-js": "^1.1.1",
+    "simple-git": "^3.25.0"
+  }
+}
